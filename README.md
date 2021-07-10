@@ -22,13 +22,13 @@ Below is the glossary:
 
 ## Objectives
 ### Overall Objectives
-*To identify the individuals that are most likely to click on the client’s ads
+* To identify the individuals that are most likely to click on the client’s ads
 
 ### Specific Objectives
 * To identify the blog’s key demographic in terms of age group, gender and country of origin.
 * To examine the relationship between time spent on the blog and daily internet usage when it comes to clicking on ads.
 
-## Recommendations
+## Conclusions
 From the above analysis, the following points stand out:
 
 * The demographic of the Blogger consists of:
@@ -38,5 +38,9 @@ From the above analysis, the following points stand out:
     - male users click on ads slightly less than their counterparts.
 
 * The people most likely to click on ads spend not more than 60 minutes in a day on the site.
-
-* The client should therefore tailor the ads towards meeting the needs of this specific demographic
+*  Most people who earn a relatively low income tend to click on ads.
+*  
+## Recommendations
+* The client should tailor their ads to target more non-male individuals
+* The client should target people earning between 22000 and 55000 as they are more likely to click on ads
+* The client should target people above the age of 40 as they tend to click on ads the most.
